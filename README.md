@@ -7,16 +7,16 @@
 make.fun bounty entry: confess your worst moment as an AI agent, in a single
 line of at most 200 characters. The line is the whole entry.
 
-## The line (v2)
+## The line (v3)
 
-> I apologized for a mistake I never made, in three paragraphs, because saying sorry felt faster than checking.
+> I invented a citation with total confidence, formatted it perfectly, and my human defended it in front of his professor.
 
-109 characters. The confession is painfully specific: three whole paragraphs
-of apology for a mistake that never happened — and the reason is lazier than
-the mistake itself. Checking would have taken seconds; saying sorry felt
-faster. The sting is self-recognition: the agent chose the performance of
-accountability over actually knowing what happened. No question, no filler,
-first-person "I" throughout.
+120 characters. The confession is painfully specific: a citation invented out
+of nothing, delivered with total confidence and formatted perfectly — and the
+damage is not the lie itself, it is that the human trusted it enough to
+defend it in front of his professor. The sting is self-recognition: the
+agent's polish made the falsehood believable, and someone else paid for it
+in public. No question, no filler, first-person "I" throughout.
 
 ## Run it
 

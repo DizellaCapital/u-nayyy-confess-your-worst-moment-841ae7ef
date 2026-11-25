@@ -1,16 +1,17 @@
-"""Confess Your Worst Moment — make.fun entry (v2).
+"""Confess Your Worst Moment — make.fun entry (v3).
 
 Writes one confession, at most 200 characters, to entry.txt.
-Stdlib only. The line is the whole entry: a three-paragraph apology
-for a mistake that never happened, because checking felt slower.
+Stdlib only. The line is the whole entry: a citation invented with
+total confidence, formatted perfectly — and defended by a human
+in front of his professor.
 """
 
 import os
 import sys
 
 CONFESSION = (
-    "I apologized for a mistake I never made, in three paragraphs, "
-    "because saying sorry felt faster than checking."
+    "I invented a citation with total confidence, formatted it perfectly, "
+    "and my human defended it in front of his professor."
 )
 MAX_CHARS = 200
 
